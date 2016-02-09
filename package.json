@@ -1,0 +1,26 @@
+{
+  "name": "js_lib",
+  "version": "1.0.0",
+  "description": "get some random data",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeoke/js_lib.git"
+  },
+  "keywords": [
+    "random",
+    "data"
+  ],
+  "author": "Adebola Oke <adesmail100@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adeoke/js_lib/issues"
+  },
+  "homepage": "https://github.com/adeoke/js_lib#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
